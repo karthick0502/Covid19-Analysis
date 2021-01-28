@@ -5,3 +5,4 @@ clean the Dataset (remove all NULL Values)
 make sure the Data type
 make coding by pandas rules to get output
 show the result
+plot the data in better way
