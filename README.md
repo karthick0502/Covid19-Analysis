@@ -1,13 +1,13 @@
-**Title:** Pandas and Matplotlib Data Analysis Notebook
+# Pandas and Matplotlib Data Analysis Notebook
 
-**Description:**
+## Description:
 This repository contains a Jupyter notebook focusing on data analysis using Pandas and Matplotlib libraries in Python. The notebook encompasses two datasets: COVID-19 Daily Cases, Deaths, and Hospitalizations, and the Employee Survey 2020 dataset. 
 
-**Dataset Details:**
+## Dataset Details:
 - **COVID-19 Daily Cases, Deaths, and Hospitalizations:** This dataset provides information on daily COVID-19 cases, deaths, and hospitalizations. It includes data on various metrics related to the pandemic, such as total cases, total deaths, and total hospitalizations, aggregated by date.
 - **Employee Survey 2020:** This dataset contains survey results from an employee survey conducted in 2020. It covers various aspects of employees' demographics, job satisfaction, and opinions on work-related topics.
 
-**Notebook Contents:**
+## Notebook Contents:
 1. **Data Loading and Inspection:** 
    - Loading the datasets into Pandas DataFrames.
    - Exploring the basic information of the datasets, such as shape and data types.
