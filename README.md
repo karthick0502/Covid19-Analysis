@@ -76,9 +76,3 @@ This repository contains a comprehensive tutorial on data visualization using Ma
 To run the code examples provided in this tutorial, make sure you have Python installed on your system along with the required dependencies:
 
 Each section of the tutorial is organized into separate Python scripts, making it easy to navigate and understand specific concepts. Feel free to explore the code and modify it according to your requirements.
-
-## Credits
-
-This tutorial was created by [Your Name]. Feel free to contribute to this repository by submitting pull requests or opening issues for any suggestions or improvements.
-
-Feel free to customize the content based on your preferences and the structure of your tutorial. If you need further assistance or have any questions, don't hesitate to ask!
